@@ -1,0 +1,47 @@
+/* body */
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+  font-family: 'Panton'
+}
+
+/* button */
+button {
+  font-size: 14px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #F2A900;
+  color: #ffffff;
+  border: none;
+}
+/* example of css for image */
+.image {
+  height: 50px;
+  width: 50px;
+  padding: 50px;
+  background: green;
+  border: 20px solid black;
+  border-radius: 50%;
+  margin: 50px;
+}
+/* main feature */
+/* secondary feature */
+/* community events */
+.community-event-image-1 {
+  border-radius: 50%;
+}
+
+.community-event-image-2 {
+  border-radius: 50%;
+}
+
+.community-event-image-3 {
+  border-radius: 50%;
+}
+/* blog posts */
+/* programs */
+/* membership benefits */
+/* other news */
+/* footer */
